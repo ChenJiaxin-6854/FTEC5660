@@ -16,7 +16,7 @@ We evaluate **DeepSeek-V3** on multi-choice political reasoning tasks and test a
 - original_task1.ipynb (Original UNBench Task 1 code)
 - Reproduction.ipynb (Modified version with enhanced prompt)
 - task1.json (Task 1 test data - 30 instances)
-
+- requirements.txt
 ---
 
 ## 🎯 Reproduction Target
