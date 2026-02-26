@@ -9,14 +9,13 @@ We evaluate **DeepSeek-V3** on multi-choice political reasoning tasks and test a
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-.
-├── README.md                          # This file
-├── Reproducibility report.pdf         # Detailed reproducibility report
-├── original_task1.ipynb                # Original UNBench Task 1 code
-├── Reproduction.ipynb                  # Modified version with enhanced prompt
-└── task1.json                          # Task 1 test data (30 instances)
+- README.md (This file)
+- Reproducibility report.pdf (Detailed reproducibility report)
+- original_task1.ipynb (Original UNBench Task 1 code)
+- Reproduction.ipynb (Modified version with enhanced prompt)
+- task1.json (Task 1 test data - 30 instances)
 
 ---
 
@@ -95,8 +94,8 @@ Get your API key from: https://platform.deepseek.com
 
 ## 📎 Submission Information
 
-- **Student Name**: [Your Name]
-- **Student ID**: [Your ID]
+- **Student Name**: [Chen Jiaxin]
+- **Student ID**: [1155246854]
 - **Course**: FTEC5660 – Agentic AI for Business and FinTech
 - **Date**: March 2025
 
