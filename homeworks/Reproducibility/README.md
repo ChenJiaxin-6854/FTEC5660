@@ -94,17 +94,9 @@ Get your API key from: https://platform.deepseek.com
 
 ## 📎 Submission Information
 
-- **Student Name**: [Chen Jiaxin]
-- **Student ID**: [1155246854]
-- **Course**: FTEC5660 – Agentic AI for Business and FinTech
-- **Date**: March 2025
-
----
-
-## 📽️ Presentation
-
-A 15-minute recorded presentation is available at:  
-[Insert Zoom/YouTube/Panopto link here]
+- **Student Name**: Chen Jiaxin
+- **Student ID**: 1155246854
+- **Course**: FTEC5660 
 
 ---
 
